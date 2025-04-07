@@ -1,0 +1,162 @@
+[
+    {
+      "id": 1,
+      "billName": "Rent",
+      "amount": 1200,
+      "color": "#FF6B6B",
+      "dueDate": "1st of each month",
+      "category": "Housing"
+    },
+    {
+      "id": 2,
+      "billName": "Electricity",
+      "amount": 85.50,
+      "color": "#4ECDC4",
+      "dueDate": "15th of each month",
+      "category": "Utilities"
+    },
+    {
+      "id": 3,
+      "billName": "Netflix Subscription",
+      "amount": 14.99,
+      "color": "#E57373",
+      "dueDate": "5th of each month",
+      "category": "Entertainment"
+    },
+    {
+      "id": 4,
+      "billName": "Car Payment",
+      "amount": 350,
+      "color": "#81C784",
+      "dueDate": "20th of each month",
+      "category": "Transportation"
+    },
+    {
+      "id": 5,
+      "billName": "Gym Membership",
+      "amount": 45,
+      "color": "#64B5F6",
+      "dueDate": "1st of each month",
+      "category": "Health"
+    },
+    {
+      "id": 6,
+      "billName": "Internet",
+      "amount": 79.99,
+      "color": "#BA68C8",
+      "dueDate": "10th of each month",
+      "category": "Utilities"
+    },
+    {
+      "id": 7,
+      "billName": "Phone Bill",
+      "amount": 65,
+      "color": "#FFD54F",
+      "dueDate": "3rd of each month",
+      "category": "Communication"
+    },
+    {
+      "id": 8,
+      "billName": "Car Insurance",
+      "amount": 112.50,
+      "color": "#4DB6AC",
+      "dueDate": "25th of each month",
+      "category": "Insurance"
+    },
+    {
+      "id": 9,
+      "billName": "Spotify Premium",
+      "amount": 9.99,
+      "color": "#7986CB",
+      "dueDate": "15th of each month",
+      "category": "Entertainment"
+    },
+    {
+      "id": 10,
+      "billName": "Water Bill",
+      "amount": 42.75,
+      "color": "#A1887F",
+      "dueDate": "12th of each month",
+      "category": "Utilities"
+    },
+    {
+      "id": 11,
+      "billName": "Health Insurance",
+      "amount": 275,
+      "color": "#E53935",
+      "dueDate": "1st of each month",
+      "category": "Insurance"
+    },
+    {
+      "id": 12,
+      "billName": "Amazon Prime",
+      "amount": 12.99,
+      "color": "#3949AB",
+      "dueDate": "22nd of each month",
+      "category": "Shopping"
+    },
+    {
+      "id": 13,
+      "billName": "Student Loan",
+      "amount": 225,
+      "color": "#7CB342",
+      "dueDate": "5th of each month",
+      "category": "Debt"
+    },
+    {
+      "id": 14,
+      "billName": "Trash Collection",
+      "amount": 30,
+      "color": "#5D4037",
+      "dueDate": "8th of each month",
+      "category": "Utilities"
+    },
+    {
+      "id": 15,
+      "billName": "Disney+ Subscription",
+      "amount": 7.99,
+      "color": "#D81B60",
+      "dueDate": "18th of each month",
+      "category": "Entertainment"
+    },
+    {
+      "id": 16,
+      "billName": "Renter's Insurance",
+      "amount": 18.50,
+      "color": "#00897B",
+      "dueDate": "1st of each month",
+      "category": "Insurance"
+    },
+    {
+      "id": 17,
+      "billName": "Public Transportation Pass",
+      "amount": 75,
+      "color": "#F4511E",
+      "dueDate": "1st of each month",
+      "category": "Transportation"
+    },
+    {
+      "id": 18,
+      "billName": "Cloud Storage",
+      "amount": 2.99,
+      "color": "#8E24AA",
+      "dueDate": "28th of each month",
+      "category": "Technology"
+    },
+    {
+      "id": 19,
+      "billName": "Pet Insurance",
+      "amount": 32,
+      "color": "#43A047",
+      "dueDate": "15th of each month",
+      "category": "Pets"
+    },
+    {
+      "id": 20,
+      "billName": "Credit Card Payment",
+      "amount": 150,
+      "color": "#6D4C41",
+      "dueDate": "10th of each month",
+      "category": "Debt"
+    }
+  ]
