@@ -6,7 +6,6 @@ const styles={
     root:{
         width:"100%",
         backgroundColor:"rgba(231, 236, 246, 0.8)",
-        height:"120vh"
     }
 }
 const Overview = () => {
