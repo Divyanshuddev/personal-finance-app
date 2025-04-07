@@ -1,25 +1,10 @@
 {
-    "version": 2,
-    "routes": [
-      {
-        "src": "/transaction",
-        "dest": "/index.html"
-      },
-      {
-        "src": "/budgets",
-        "dest": "/index.html"
-      },
-      {
-        "src": "/pots",
-        "dest": "/index.html"
-      },
-      {
-        "src": "/recurring-bills",
-        "dest": "/index.html"
-      },
-      {
-        "src": "/.*",
-        "dest": "/index.html"
-      }
+    "rewrites": [
+      { "source": "/", "destination": "/" },
+      { "source": "/transaction", "destination": "/" },
+      { "source": "/budgets", "destination": "/" },
+      { "source": "/pots", "destination": "/" },
+      { "source": "/recurring-bills", "destination": "/" },
+      { "source": "/(.*)", "destination": "/" }
     ]
   }
