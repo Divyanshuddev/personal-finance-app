@@ -5,7 +5,7 @@ const styles={
     root:{
         width:"100%",
         backgroundColor:"rgba(231, 236, 246, 0.8)",
-        height:"100vh"
+        height:"115vh"
     }
 }
 const Transaction = () => {
